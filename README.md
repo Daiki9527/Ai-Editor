@@ -31,7 +31,7 @@ Example:
   Then In Rulesmd.ini:
 
 
-    [AIScriptsList]
+    [AITargetTypes]
 
     0=010001C6-G,010001C7-G,010001C8-G;Add Those Scripts
 
