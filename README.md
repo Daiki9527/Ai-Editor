@@ -8,31 +8,31 @@ Author:Askeladd
 
 What's News?
 
-1,Added Phobos's New Functions: "AITargetTypes" And "AIScriptsList" .
+  1,Added Phobos's New Functions: "AITargetTypes" And "AIScriptsList" .
 
-2,And There Is Also A Sinicized Version.
+  2,And There Is Also A Sinicized Version.
 
 
 Notice:
 
-1,If You Don't Want to Build It,There is Already a Built In "bin" Folder.
+  1,If You Don't Want to Build It,There is Already a Built In "bin" Folder.
 
-2,Modified ..\config\yr.ini First:"AITargetTypes"And"AIScriptsList" Need to Match the Rulesmd.ini You Have Modified.If You Are A Modder And You Use Phobos, You Know What I Am Talking About.
+  2,Modified ..\config\yr.ini First:"AITargetTypes"And"AIScriptsList" Need to Match the Rulesmd.ini You Have Modified.If You Are A Modder And You Use Phobos, You Know What I Am Talking About.
 
 
 Example:
 
-In yr.ini:
+  In yr.ini:
 
-[AITargetTypes]
+    [AITargetTypes]
 
-0=Aircraft Randomly Pick TechnoTypes
+    0=Aircraft Randomly Pick TechnoTypes
 
-Then In Rulesmd.ini:
+  Then In Rulesmd.ini:
 
 
-[AIScriptsList]
+    [AIScriptsList]
 
-0=010001C6-G,010001C7-G,010001C8-G;Add Those Scripts
+    0=010001C6-G,010001C7-G,010001C8-G;Add Those Scripts
 
-Do the Same For [AIScriptsList]
+  Do the Same For [AIScriptsList]
