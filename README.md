@@ -36,3 +36,5 @@ Example:
     0=010001C6-G,010001C7-G,010001C8-G;Add Those Scripts
 
   Do the Same For [AIScriptsList]
+  
+  3，Copy Folder "config" to The Folder Where AIEdit.exe Exists
